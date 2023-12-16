@@ -1,6 +1,7 @@
----
-Author: Dominik Kavřík 
-Date: 16/12/2023
+# 1. Domácí Úkol
+
+**Autor:** Dominik K.
+**Datum:** 16/12/2023
 
 ---
 
