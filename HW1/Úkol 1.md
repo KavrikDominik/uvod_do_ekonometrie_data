@@ -1,3 +1,8 @@
+# 1. Domácí úkol
+
+**Autor:** Dominik K.
+**DatDatume:** 16/12/2023
+
 ---
 
 ![Screenshot](src/Screenshot_2023-12-14_at_8.36.45.png)
