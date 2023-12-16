@@ -19,15 +19,14 @@ $$
 
 Test, zda jsou domy se sklepem dražší ve srovnání s vhodně zvolenou *jednostrannou* alternativou:
 
-$$
-H_0: \beta_5 = 0 \\
-H_1: \beta_5 < 0
-$$
+$$H_0: \beta_5 = 0$$
+
+
+$$H_1: \beta_5 < 0$$
 
 Výpočet p-hodnoty:  
-$$
-\text{p-hodnota testu} = \frac{\text{p-hodnota \textit{fullbase}}}{2} = 0.00555
-$$
+
+$$\text{p-hodnota testu} = \frac{\text{p-hodnota \textit{fullbase}}}{2} = 0.00555$$
 
 Zamítáme $H_0$ na 5% hladině významnosti.
 
@@ -117,9 +116,7 @@ Nezamítáme $H_0$ na 5% hladině významnosti.
 
 Model:
 
-$$
-\log(\text{wage}) = \beta_0 + \beta_1 \times \text{age} + \beta_2 \times \text{age}^2 + \beta_3 \times \text{educ} + \beta_4 \times \text{married} + \beta_5 \times \text{female} + \beta_6 \times \text{urban} + \beta_7 \times (\text{female} \times \text{urban}) + u
-$$
+$$\log(\text{wage}) = \beta_0 + \beta_1 \times \text{age} + \beta_2 \times \text{age}^2 + \beta_3 \times \text{educ} + \beta_4 \times \text{married} + \beta_5 \times \text{female} + \beta_6 \times \text{urban} + \beta_7 \times (\text{female} \times \text{urban}) + u$$
 
 #### 7.a)
 
